@@ -1,6 +1,6 @@
 # Datosfera Lab
 
-[DatosferaLab Book](https://wikimediacolombia.gitbook.io/datosferalab/)
+[**DatosferaLab Book**](https://wikimediacolombia.gitbook.io/datosferalab/)
 
 
 Este es un espacio común y abierto para el desarrollo de proyectos colaborativos basados en la ciencia de datos con el objetivo de generar información y fomentar el aprendizaje en torno a los datos. Existen multitud de ejemplos de estos laboratorios de datos, pudiendo encontrar varios vinculados a instituciones y entidades educativas
@@ -9,4 +9,21 @@ Es de hecho una práctica común la creación de data labs con el objetivo de ap
 
 Debemos tener claro por ello desde el inicio, si vamos a centrar nuestro data lab en un tema o problema específico o si su enfoque será más abierto.
 
-[Ciencias De Datos](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
+## [Ciencias De Datos](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
+
+[**De la sociedad de la información a la del conocimiento**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/quickstart)
+
+[**El Valor de los Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/publish-your-docs)
+
+[**Que es la ciencia de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/que-es-la-ciencia-de-datos)
+
+[**Los Datos y sus Formatos**](https://wikimediacolombia.gitbook.io/datosferalab/ciencia-de-datos/los-datos-y-sus-formatos)
+
+
+## [Recopilación de Datos](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
+
+[**Recogida de datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/editor)
+
+[**Solicitud de Datos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/markdown)
+
+[**Busqueda de Datis Publicos**](https://wikimediacolombia.gitbook.io/datosferalab/recopilacion-de-datos/images-and-media)
